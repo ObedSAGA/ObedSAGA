@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obed Sánchez.
 - 👀 I’m interested in Web Development and Video Games Dev.
-- 🌱 I’m currently learning JavaScript, PHP (Laravel), C# for videogames.
+- 🌱 I’m currently learning JavaScript, PHP (and Laravel), C# (and Unity) for videogames.
 - 💞️ I am looking to collaborate on something fun and inspiring.
 - 📫 How to reach me: Twitch: ObedSAGA and IG: ObedSAGA.
 
