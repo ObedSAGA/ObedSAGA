@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/](https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/)
 
-- ⚡ Fun fact **I´m Mexican whith Spanish accent.**
+- ⚡ Fun fact **I´m Mexican with Spanish accent.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
