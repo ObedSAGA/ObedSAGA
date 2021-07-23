@@ -1,3 +1,8 @@
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/81431112/126777462-126decc2-d923-4c5c-b318-e2e1970f8be9.png" alt="Obed Sánchez" />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Obed Sánchez</h1>
 <h3 align="center">New Full-Stack Developer looking for job in Barcelona</h3>
 
