@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
 
-- 👀 I’m interested in Web Development and Video Games Dev.
+- 👀 I’m interested in Web and Video Games Development.
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
 - 💞️ I am looking to work on something fun and inspiring.
 
-- 📫 How to reach me **obedsg95@gmail.com**
+- 📫 How to reach me:  **obedsg95@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/](https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/)
 
