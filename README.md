@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/81431112/127345817-8ee6e422-d599-4ae3-8b7e-0130c8929dc7.png" alt="Obed Sánchez" />
+  <img width="100%" src="https://user-images.githubusercontent.com/81431112/127347383-4fa7a349-5934-4112-bbec-e81613cfc041.png" alt="Obed Sánchez" />
 </div>
 
 
