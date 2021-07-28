@@ -10,15 +10,17 @@
 
 - 👀 I'm interested in both front and back development. I believe that knowing both parts makes you a versatile and decisive professional..
 
-- 🌱 I’m currently learning **React.js, Node.js, and Python**
+- :mortar_board: I’m currently learning **React.js, Node.js, and Python**
 
-- 💞️ I dream of being part of big projects and working with great people..
+- :computer: I'm working on my marketplace project with Lavarel-> <a href="https://github.com/ObedSAGA/marketplace-project" target="blank">Rápido.es</a> <- :construction:
+
+- :rocket: I dream of being part of big projects and working with great people.
 
 - 📫 How to reach me:  **obedsg95@gmail.com**
 
 - 📄 Know about my experiences at my <a href="https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/" target="blank">LinkedIn.</a>
 
-- ⚡ Fun fact **I´m Mexican with Spanish accent.**
+- :stuck_out_tongue_winking_eye: Fun fact **I´m Mexican with Spanish accent.**
 
 <h3 align="center">I started to share IT content for spanish community</h3>
 
