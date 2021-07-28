@@ -1,18 +1,18 @@
 <div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/81431112/126777462-126decc2-d923-4c5c-b318-e2e1970f8be9.png" alt="Obed Sánchez" />
+  <img width="100%" src="https://user-images.githubusercontent.com/81431112/127345817-8ee6e422-d599-4ae3-8b7e-0130c8929dc7.png" alt="Obed Sánchez" />
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Obed Sánchez</h1>
-<h3 align="center">New Full-Stack Developer looking for job in Barcelona</h3>
+<h3 align="center">New Web Developer looking for job in Barcelona</h3>
 
 <p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
 
-- 👀 I’m interested in Web and Video Games Development.
+- 👀 I'm interested in both front and back development. I believe that knowing both parts makes you a versatile and decisive professional..
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js, Node.js, and Python**
 
-- 💞️ I am looking to work on something fun and inspiring.
+- 💞️ I dream of being part of big projects and working with great people..
 
 - 📫 How to reach me:  **obedsg95@gmail.com**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I´m Mexican with Spanish accent.**
 
-<h3 align="center">I share IT content for spanish community</h3>
+<h3 align="center">I started to share IT content for spanish community</h3>
 
 <p align="center">
    <a href="https://www.twitch.tv/obedsaga" target="blank" style='margin-right:4px'>
