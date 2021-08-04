@@ -16,7 +16,7 @@
 
 - :rocket: I dream of being part of big projects and working with great people.
 
-- 📫 How to reach me:  **obedsg95@gmail.com**
+- 📫 How to reach me:  **msanchezobed@gmail.com**
 
 - 📄 Know about my experiences at my <a href="https://www.linkedin.com/in/obed-s%C3%A1nchez-garc%C3%ADa/" target="blank">LinkedIn.</a>
 
