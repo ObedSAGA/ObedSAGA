@@ -10,7 +10,7 @@
 
 - 👀 I'm interested in both front and back development. I believe that knowing both parts makes you a versatile and decisive professional..
 
-- :mortar_board: I’m currently learning **React.js, Node.js, and Python**
+- :mortar_board: I’m currently learning **React.js and Node.js**
 
 - :computer: I'm working on my marketplace project with Lavarel-> <a href="https://github.com/ObedSAGA/marketplace-project" target="blank">Rápido.es</a> <- :construction:
 
