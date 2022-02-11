@@ -3,16 +3,14 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Obed Sánchez</h1>
+<h1 align="center">Hi 👋 I'm Obed Sánchez</h1>
 <h3 align="center">New Web Developer looking for job in Barcelona</h3>
 
 <p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
 
 - 👀 I'm interested in both front and back development. I believe that knowing both parts makes you a versatile and decisive professional..
 
-- :mortar_board: I’m currently learning **React.js and Node.js**
-
-- :computer: I'm working on my marketplace project with Lavarel-> <a href="https://github.com/ObedSAGA/marketplace-project" target="blank">Rápido.es</a> <- :construction:
+- :mortar_board: I’m currently developing projects in **React.js and Node.js**
 
 - :rocket: I dream of being part of big projects and working with great people.
 
