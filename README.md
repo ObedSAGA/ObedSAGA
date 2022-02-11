@@ -20,7 +20,7 @@
 
 - :stuck_out_tongue_winking_eye: Fun fact **I´m Mexican with Spanish accent.**
 
-<h3 align="center">I started to share IT content for spanish community</h3>
+<h3 align="center">I share content for spanish community</h3>
 
 <p align="center">
    <a href="https://www.twitch.tv/obedsaga" target="blank" style='margin-right:4px'>
