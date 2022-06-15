@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋 I'm Obed Sánchez</h1>
-<h3 align="center">New Web Developer looking for job in Barcelona</h3>
+<h3 align="center">Junior Front-end Developer (MERN Stack) looking for job in Barcelona</h3>
 
 <p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
 
