@@ -10,7 +10,7 @@
 
 - 👀 I'm interested in both front and back development. I believe that knowing both parts makes you a versatile and decisive professional..
 
-- :mortar_board: I’m currently developing projects in **React.js and Node.js**
+- :mortar_board: I’m currently developing projects in **React.js and Next.js with Typescript**
 
 - :rocket: I dream of being part of big projects and working with great people.
 
