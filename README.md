@@ -1,10 +1,5 @@
-<div align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/81431112/127347383-4fa7a349-5934-4112-bbec-e81613cfc041.png" alt="Obed Sánchez" />
-</div>
-
-
 <h1 align="center">Hi 👋 I'm Obed Sánchez</h1>
-<h3 align="center">Junior Front-end Developer (MERN Stack) looking for job in Barcelona</h3>
+<h3 align="center">Junior Web Developer looking for job in Barcelona</h3>
 
 <p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
 
@@ -12,7 +7,7 @@
 
 - :mortar_board: I’m currently developing projects in **React.js and Next.js with Typescript**
 
-- :rocket: I dream of being part of big projects and working with great people.
+- :rocket: I dream of being part of big projects with social impact and working with great people.
 
 - 📫 How to reach me:  **msanchezobed@gmail.com**
 
