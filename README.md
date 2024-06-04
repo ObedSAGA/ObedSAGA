@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Obed</h1>
 <h3 align="center">Web Developer in Barcelona</h3>
 
-<p align="left"> <a href="https://twitter.com/sagaobed" target="blank"><img src="https://img.shields.io/twitter/follow/sagaobed?logo=twitter&style=for-the-badge" alt="sagaobed" /></a> </p>
+
 
 - :mortar_board: I’m currently developing projects in **React.js and Next.js with Typescript**
 
