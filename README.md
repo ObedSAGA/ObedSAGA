@@ -9,7 +9,7 @@ In an oversaturated market where capturing customer attention is increasingly co
 
 
 
-- :mortar_board: I’m currently developing projects in **React.js and Next.js with Typescript**
+- :mortar_board: I’m currently developing projects in **React.js and Next.js with Typescript** and OpenIA API
 
 - :rocket: I dream of being part of big projects with social impact and working with great people.
 
